@@ -1,3 +1,3 @@
-git version ocntrol system
+git is version control system
 
 git is free.
